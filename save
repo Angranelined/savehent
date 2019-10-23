@@ -35,7 +35,7 @@ channel_id = 612421576104738826
 #Папкпка куда кидаем!!!!
 path = "pic"
 #токен на случай если бота забанят
-token = "NjM2Njk0NjE2OTA0Njk1ODI4.XbDY3Q.OD7pPDRYLv9D_ZozqYvGqFlyLIg"
+token = ""
 
 async def pic_url(url,name):
     # url = "https://avatars.mds.yandex.net/get-pdb/1058492/5d8d2f50-68fa-42b4-9205-0652b1c05fcb/s1200?webp=false"
